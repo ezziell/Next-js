@@ -1,0 +1,13 @@
+.error-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.errorh1{
+    font-size: 1.8rem;
+    color: rgb(30, 66, 99);
+}
+.errorp{
+    color: gray;
+    font-size: 1rem;
+}
